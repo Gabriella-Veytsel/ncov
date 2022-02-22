@@ -1,6 +1,0 @@
-#ignore data and result from auspice build
-**/data/
-**/results/
-
-#ignore auspice from second directory
-*/auspice/
